@@ -347,12 +347,3 @@ Found a bug or have an idea for improvement?
 Feel free to open an issue or submit a pull request.
 
 Built with Python 🐍
-
-
-### After pasting
-
-Just do these two things:
-
-**1. Save**
-```text
-Ctrl + S
